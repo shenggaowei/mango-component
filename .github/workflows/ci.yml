@@ -1,4 +1,4 @@
-name: blog deploy
+name: rc deploy
 on:
   push:
     branches:
