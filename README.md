@@ -1,4 +1,4 @@
-# 教室常用组件库
+# 常用组件库
 
 ## Getting Started
 
