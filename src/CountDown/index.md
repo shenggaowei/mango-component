@@ -4,7 +4,7 @@
 
 ```tsx
 import React from 'react';
-import { CountDown } from '@zhike-private/class-rc';
+import { CountDown } from '@shenggao/rc';
 
 export default () => <CountDown title="First Demo" />;
 ```

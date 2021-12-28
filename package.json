@@ -1,6 +1,6 @@
 {
   "private": false,
-  "name": "@mangguo/rc",
+  "name": "@shenggao/rc",
   "version": "1.0.0",
   "scripts": {
     "prepare": "husky install",
@@ -53,6 +53,8 @@
     "yorkie": "^2.0.0"
   },
   "dependencies": {
-    "@babel/runtime": "^7.16.5"
+    "@babel/runtime": "^7.16.5",
+    "ahooks": "^3.1.2",
+    "classnames": "^2.3.1"
   }
 }
