@@ -1,6 +1,6 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  title: '升高组件',
+  title: 'shenggao-rc',
   outputPath: 'docs-dist',
 });
