@@ -38,7 +38,6 @@ const SetTimer: React.FC = (props) => {
 const TimerCount: React.FC = (props) => {
   return (
     <div className="countDownContainer">
-      {/* <div className="time">1:00</div> */}
       <div className="timeBig">8</div>
       <div className="pause">暂停</div>
     </div>

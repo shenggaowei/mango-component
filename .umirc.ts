@@ -1,6 +1,6 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  title: 'shenggao-rc',
+  title: '芒果组件',
   outputPath: 'docs-dist',
 });
